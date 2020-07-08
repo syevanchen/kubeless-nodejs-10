@@ -1,0 +1,1 @@
+FROM kubeless/nodejs@sha256:74f8428ba9e98b6849ab34d2d1b5c38381b1de471090f7cc3dc9f72322f8c921
